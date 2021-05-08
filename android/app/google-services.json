@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "20365390191",
+    "firebase_url": "https://carak-257221.firebaseio.com",
+    "project_id": "carak-257221",
+    "storage_bucket": "carak-257221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20365390191:android:47e93af68d739f59d0f89a",
+        "android_client_info": {
+          "package_name": "com.carak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20365390191-27cp10h6k1ihl6pjv6d0vl30k4o1vgkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcBDtZOtmsECQF19PSRir3B8mb8EQ5Mm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20365390191-27cp10h6k1ihl6pjv6d0vl30k4o1vgkf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20365390191-off6goh7rv05uaikm152tr56u9dd7bi3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Carak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
